@@ -251,20 +251,34 @@ const About = () => {
                   </div>
                 </div>
 
-                {/* Vice President */}
+                {/* Vice Chairman */}
                 <div className="bg-secondary rounded-xl overflow-hidden group hover:shadow-premium-lg transition-all duration-300">
-                  <div className="h-48 overflow-hidden">
-                    <img src={vicePresident} alt="Mrs Basheer" className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500" />
+                  <div className="h-62 bg-muted flex items-center justify-center overflow-hidden">
+                    <img
+                      src={vicePresident}
+                      alt="Mrs. Fathima Nasreen Basheer"
+                      className="max-h-full max-w-full object-contain"
+                    />
                   </div>
+
+
                   <div className="p-6">
-                    <h3 className="text-lg font-bold text-foreground">Mrs Basheer</h3>
-                    <p className="text-accent-dark text-sm font-medium mb-2">Vice President</p>
+                    <h3 className="text-lg font-bold text-foreground">
+                      Mrs. Fathima Nasreen Basheer
+                    </h3>
+                    <p className="text-accent-dark text-sm font-medium">
+                      Vice-Chairman
+                    </p>
+                    <p className="text-xs uppercase tracking-wide text-muted-foreground mb-3">
+                      Janapriya Group of Institutions
+                    </p>
                     <p className="text-muted-foreground text-sm leading-relaxed">
-                      Dedicated to fostering an environment of academic excellence and personal growth. 
+                      Dedicated to fostering an environment of academic excellence and personal growth.
                       Our commitment to student success drives every decision we make at Janapriya Group of Institutions.
                     </p>
                   </div>
                 </div>
+
 
                 {/* Director of Health Sciences */}
                 <div className="bg-secondary rounded-xl overflow-hidden group hover:shadow-premium-lg transition-all duration-300">

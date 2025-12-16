@@ -79,7 +79,7 @@ const Contact = () => {
                   </div>
                   <div className="flex items-start gap-4">
                     <Mail className="h-5 w-5 text-accent-dark mt-1" />
-                    <div><h4 className="font-medium text-foreground">Email</h4><a href="mailto:jipmshassan@gmail.com" className="text-muted-foreground text-sm hover:text-primary">jipmshassan@gmail.com</a></div>
+                    <div><h4 className="font-medium text-foreground">Email</h4><a href="mailto:janapriyaconhassan@gmail.com" className="text-muted-foreground text-sm hover:text-primary">janapriyaconhassan@gmail.com</a></div>
                   </div>
                 </div>
               </div>
