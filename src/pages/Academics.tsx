@@ -69,7 +69,7 @@ const faculties = [
     description: 'Our Allied Health Sciences institute in Mangalore offers comprehensive B.Sc programs including Occupational Therapy and specialized courses. With modern lab facilities and clinical exposure, students develop expertise in their chosen field.',
     image: facultyAllied,
     programs: [
-      'BOT - Bachelor of Occupational Therapy (3 Years + 1 Year Internship)',
+      'BOT - Bachelor of Occupational Therapy (4 Years + 1 Year Internship)',
       'B.Sc Medical Laboratory Technology (MLT) (3 Years + 1 Year Internship)',
       'B.Sc Medical Imaging Technology (MIT) (3 Years + 1 Year Internship)',
       'B.Sc Operation Theater & Anesthesia Technology (AT & OT) (3 Years + 1 Year Internship)',

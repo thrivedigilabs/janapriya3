@@ -4,7 +4,7 @@ import { Book, Globe, Download, Clock, Users, FileText, ExternalLink } from 'luc
 import library from '@/assets/library.jpg';
 
 const resources = [
-  { icon: Book, title: 'Central Library', desc: '35,000+ books, journals, and reference materials', link: '#library' },
+  { icon: Book, title: 'Central Library', desc: '3,500+ books, journals, and reference materials', link: '#library' },
   { icon: Globe, title: 'E-Resources', desc: 'Online databases, e-journals, and digital learning platforms', link: '#e-resources' },
   { icon: Download, title: 'Downloads', desc: 'Study materials, forms, and academic resources', link: '#downloads' },
 ];
