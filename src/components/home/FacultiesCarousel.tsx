@@ -38,7 +38,7 @@ const faculties = [
   },
   {
     id: 'physiotherapy',
-    name: 'Janapriya College of Physiotherapy (Hassan & Mangalore)',
+    name: 'Janapriya College of Physiotherapy (Mangalore)',
     description: 'Expert training in physical rehabilitation and therapy with state-of-the-art equipment and clinical exposure.',
     image: facultyPhysio,
     programs: ['BPT'],
